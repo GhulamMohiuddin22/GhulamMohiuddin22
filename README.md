@@ -1,27 +1,103 @@
-# 💫 About Me:
-Full-Stack Developer (MERN) | Deep thinker, real-world builder<br>Exploring how things actually work — then building them.<br>Currently: turning ideas into products 🚀
+<div align="center">
 
+# 👋 Hi, I'm Ghulam Mohiuddin
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ghulammohiuddin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghulammohiuddin38) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ghulam-mohi-uddin-890ab8371) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@GhulamMohiUddin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohi.arif014@gmail.com) 
+### Software Developer • ASP.NET Core • React • AI Engineering
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=GhulamMohiuddin22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=GhulamMohiuddin22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GhulamMohiuddin22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Developer+OS;Software+Engineer+in+Progress;ASP.NET+Core+%7C+React+%7C+AI;Learning.+Building.+Improving." />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GhulamMohiuddin22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GhulamMohiuddin22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=GhulamMohiuddin22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Building modern software with **ASP.NET Core**, **React**, and **C#**
+- 🤖 Exploring **Artificial Intelligence** and intelligent applications
+- 🏗️ Currently building **Developer OS**
+- 📚 Learning **Cloud Computing**, **System Design**, and **Software Architecture**
+- 🎯 Goal: Become a world-class **Software Engineer & AI Engineer**
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,git,github,vscode,visualstudio"/>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GhulamMohiuddin22&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhulamMohiuddin22&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=GhulamMohiuddin22&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GhulamMohiuddin22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- ASP.NET Core
+- Clean Architecture
+- REST APIs
+- SQL
+- React
+- AI Engineering
+- Cloud Computing
+
+---
+
+## 🚀 Current Project
+
+### Developer OS
+
+A modern developer platform focused on learning, productivity, developer tools, AI integration, and scalable software engineering.
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ghulam-mohi-uddin-890ab8371">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mohi.arif014@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=GhulamMohiuddin22&style=for-the-badge&color=3B82F6)
+
+> **"Great software isn't built in a day. It's built one commit at a time."**
+
+</div>
