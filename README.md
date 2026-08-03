@@ -4,23 +4,27 @@
 
 ### Software Developer • ASP.NET Core • React • AI Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Developer+OS;Software+Engineer+in+Progress;ASP.NET+Core+%7C+React+%7C+AI;Learning.+Building.+Improving." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Developer+OS;ASP.NET+Core+Developer;React+Developer;Learning+AI+Engineering;Always+Building.+Always+Learning." />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Building modern software with **ASP.NET Core**, **React**, and **C#**
-- 🤖 Exploring **Artificial Intelligence** and intelligent applications
-- 🏗️ Currently building **Developer OS**
-- 📚 Learning **Cloud Computing**, **System Design**, and **Software Architecture**
-- 🎯 Goal: Become a world-class **Software Engineer & AI Engineer**
+💻 Building modern software with **ASP.NET Core, C#, React, and SQL**
+
+🤖 Exploring **Artificial Intelligence** and intelligent software systems
+
+🏗️ Creator of **Developer OS**
+
+📚 Currently learning **Cloud Computing, Clean Architecture, System Design, and AI**
+
+🎯 Goal: Become a world-class **Software Engineer & AI Engineer**
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -30,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -48,37 +52,35 @@
 
 ---
 
-## 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GhulamMohiuddin22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GhulamMohiuddin22&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Current Focus
 
-- ASP.NET Core
-- Clean Architecture
-- REST APIs
-- SQL
-- React
-- AI Engineering
-- Cloud Computing
+- ⚙️ ASP.NET Core
+- 💻 Software Architecture
+- ☁️ Cloud Computing
+- 🤖 AI Engineering
+- 🚀 Developer OS
 
 ---
 
-## 🚀 Current Project
+# 🚀 Featured Project
 
-### Developer OS
+## 🔥 Developer OS
 
-A modern developer platform focused on learning, productivity, developer tools, AI integration, and scalable software engineering.
+A modern developer platform focused on learning, productivity, AI integration, roadmaps, and scalable software engineering.
 
 ---
 
-## 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -96,8 +98,10 @@ A modern developer platform focused on learning, productivity, developer tools, 
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=GhulamMohiuddin22&style=for-the-badge&color=3B82F6)
+<img src="https://komarev.com/ghpvc/?username=GhulamMohiuddin22&style=for-the-badge&color=3B82F6"/>
 
-> **"Great software isn't built in a day. It's built one commit at a time."**
+### 💭 Quote
+
+> **"Consistency beats talent when talent doesn't stay consistent."**
 
 </div>
